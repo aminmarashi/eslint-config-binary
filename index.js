@@ -40,6 +40,7 @@ module.exports = {
     'wrap-iife': ['error', 'inside', {functionPrototypeMethods: true}],
     'no-nested-ternary': 'error',
     curly: 'error',
+    quote: ['error', 'single'],
 
     // Warning
     'no-nested-ternary': 'warn',

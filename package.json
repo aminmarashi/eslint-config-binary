@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-binary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint shared config for binary.com applications",
   "main": "index.js",
   "scripts": {
